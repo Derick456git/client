@@ -1,5 +1,5 @@
 import { Route, Routes } from "react-router-dom";
-import Footer from "./components/Footer";
+import Footer from "./components/footer.jsx";
 import Navbarpg from './components/navbarpg.jsx'
 import { lazy, Suspense } from "react";
 import Spinnerpage from "./components/spinnerpage";
